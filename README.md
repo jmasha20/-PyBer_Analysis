@@ -12,7 +12,7 @@
 
 
 ## Results 
-![analysis/Fig1.png](analysis/Fig1.png)
+![analysis/pyber_data_summary.png](analysis/pyber_data_summary.png)
 
 ![analysis/PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
