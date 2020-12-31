@@ -13,7 +13,7 @@ An exploratory analysis on Pyber, a python-based ridesharing app company. This n
 
 ## Results
 ### PyBer Summary DataFrame
-*By city type
+
 
 The PyBer Summary DataFrame comparsion of Pyber's ridesharing services is shown in three types of cities: rural, suburban, and urban cities. Urban cities shows a larger demand for PyBer compared to suburban and rural cities. There were 1,625 rides in urban cities, 625 rides in suburban cities, and 125 rides in rural cities between January 2019 and May 2019 (up to May 8, 2019); the most rides during this five-month period shows rides in urban cities. 
 
@@ -23,12 +23,14 @@ In terms of costs, the summary shows the average fare for rides in the rural cit
 
 In terms of drivers, the average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities. The rural market for drivers yields a greater average fare per driver at less rides then suburban and rural drivers and rides. The average fare per driver is about $55 in rural cities, whereas the average fare per driver is about $17 in urban cities and about $40 in surburban cities.
 
+
 ### PyBer Fare Summary Multiple-Line Chart 
-*For each city type
+
 
 The PyBer Fare Summary shows trends of total fares in rural, suburban, and urban cities between January 2019 and April 2019. Fares in urban cities totaled around $1,600 to $2,300 from January to April whereas rural cities totaled around $200 and peaked at $500 during the same time period. Total fares in suburban cities fall in between urban and rural cities at around $700 to $1,300. The chart shows a noticeable peak in the month of February for each city type: rural, suburban and urban peak at the same time and same week. 
 
 ![analysis/PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
+
 
 ## Summary
 Based on the results, this analysis provides three business recommendations to the CEO for addressing access and disparities among city types:
