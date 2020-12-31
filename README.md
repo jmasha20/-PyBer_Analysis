@@ -1,7 +1,7 @@
 # PyBer Analysis
 
-## Overview of Pyber Analysis
-An exploratory analysis on Pyber, a python-based ridesharing app company. This new analysis summarizes Pyber's ridsharing data to show how the data differs by city type and how those differences can be used by decision-makers at PyBer to improve access to Pyber's ridesharing services and determine affordability for underserved neighborhoods. 
+## Overview of PyBer Analysis
+An exploratory analysis on PyBer, a python-based ridesharing app company. This new analysis summarizes PyBer's ridsharing data to show how the data differs by city type and how those differences can be used by decision-makers at PyBer to improve access to Pyber's ridesharing services and determine affordability for underserved neighborhoods. 
 
 ## Resources
 -Data Source: 
